@@ -1,0 +1,4 @@
+
+User guess a number bellow 10 and device also select a number secretly.
+User can input 3 times if the result not match with device selected number.
+If users input match with device input then user get score and final result.
